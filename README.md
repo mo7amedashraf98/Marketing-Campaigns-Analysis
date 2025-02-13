@@ -1,5 +1,6 @@
 # Marketing-Campaigns-Analysis
 
+![Always on Campaign Analysis - April 2024](https://github.com/user-attachments/assets/a6c0cfd9-b09e-4d71-aab4-bfdedb3c8587)
 
 
 The aim of this project was to analyze marketing campaigns across various channels, evaluate their performance, and compare actual KPIs to target KPIs. Additionally, it measured the percentage increase when the actual results exceeded the targets, providing valuable insights into campaign effectiveness.
